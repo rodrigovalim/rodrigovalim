@@ -1,3 +1,7 @@
+**OI
+
+
+
 fazendo o curso "análise de dado"s no SENAC, desenvovendo linguagem python
 
 nome: rodrigo de souza valim
